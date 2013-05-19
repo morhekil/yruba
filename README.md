@@ -1,5 +1,7 @@
 # Yruba
 
+This is a github copy of the original project by Harald Kirsch, which is available [on his website](http://pifpafpuf.de/Yruba/). This copy was created with his permission, but all the credit still goes to the original author.
+
 ## Why Rules for Bash?
 
 ... because it's cool!
